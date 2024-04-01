@@ -1,5 +1,5 @@
-## Project title
-Climate Change Data Analysis Project
+## Rising Temperatures: The Global Challenge of Climate Change
+
 
 ## Project structure
 - **Data:** The `data` folder includes the raw data file, "Annual_Surface_Temperature_Change.csv," which serves as the foundation for the analysis.
@@ -16,7 +16,7 @@ Understanding the nuances of climate change is imperative for informed decision-
 - pandas
 - matplotlib
 - seaborn
-- Tableau (for interactive visualizations) / https://public.tableau.com/authoring/WEATHERCHANGE1961-2022/Globalview#1
+- Tableau (for interactive visualizations) / https://public.tableau.com/app/profile/alexandre.ghanzouri1300/viz/EarthsAlarmConfrontingtheRealityofClimateChange1961-2022/EarthsAlarmConfrontingtheRealityofClimateChange
 
 
 
