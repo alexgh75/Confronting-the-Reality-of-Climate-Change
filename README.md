@@ -1,4 +1,4 @@
-## Climate Change Data Analysis Project
+## Rising Temperatures: The Global Challenge of Climate Change
 
 
 ## Project structure
